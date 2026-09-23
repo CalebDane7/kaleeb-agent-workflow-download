@@ -7,6 +7,9 @@ Includes Best Copywriting, Beautiful Converting Frontend Design, Compact Keyword
 SEO, Remotion, and their selected design, conversion, media, Blender, and workflow
 companions. Best Copywriting is the single writing controller.
 
+The latest update puts researched audience intent first, then SEO, copy and design.
+Copy and design preserve approved search phrases and check the visible page heading.
+
 The first AGENTS.md rule: use the fewest words that preserve meaning. Give the
 simplest useful answer first; add detail when needed.
 
