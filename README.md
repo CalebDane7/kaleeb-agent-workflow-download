@@ -1,14 +1,16 @@
 # Caleb’s AGENTS.md and selected skills
 
 The full **AGENTS.md workflow** and **36 selected skills** for Codex, Claude Code,
-and other agents that can read custom instructions. Updated 23 September 2026.
+and other agents that can read custom instructions. Updated 26 September 2026.
 
 Includes Best Copywriting, Beautiful Converting Frontend Design, Compact Keywords
 SEO, Remotion, and their selected design, conversion, media, Blender, and workflow
 companions. Best Copywriting is the single writing controller.
 
-The latest update puts researched audience intent first, then SEO, copy and design.
-Copy and design preserve approved search phrases and check the visible page heading.
+The latest update adds critically appraised conversion research and contextual
+landing-page guidance, alongside current copywriting and browser improvements.
+Audience intent, SEO, copy and design remain connected; no universal funnel or
+conversion lift is promised.
 
 The first AGENTS.md rule: use the fewest words that preserve meaning. Give the
 simplest useful answer first; add detail when needed.
