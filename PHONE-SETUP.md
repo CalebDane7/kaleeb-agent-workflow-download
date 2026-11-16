@@ -4,14 +4,18 @@ Give this link to **Codex or Claude Code running on your computer**. Your agent 
 
 ## Download
 
-- [Protected phone/system package](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/download/phone-handoff-2026.11.16.3/mantis-phone-handoff.zip) · [SHA-256](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/download/phone-handoff-2026.11.16.3/mantis-phone-handoff.zip.sha256)
+- [Protected phone/system package](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/download/phone-handoff-2026.11.16.4/mantis-phone-handoff.zip) · [SHA-256](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/download/phone-handoff-2026.11.16.4/mantis-phone-handoff.zip.sha256)
 - [Protected workflow +36 skills](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/latest/download/kaleeb-agent-workflow.zip)
 
 Get both passwords privately from Caleb. Use an AES-compatible extractor such as7-Zip; enter passwords in a hidden local prompt.
 
 ## Paste this into your agent
 
-> Read this page and the phone package's README.md and docs/AGENT-SETUP.md. Set up my Android phone terminal on my computer using my own accounts. Offer “Install everything” first. If I prefer “Select components”, explain each briefly and install those choices plus required companions. Preserve my existing settings. Pair my phone through debugging, install/configure Tailscale, adapt the local title service, rebuild the APK for my host and install it. Do the accessible setup yourself; guide me through required sign-ins and phone approvals. Verify actual phone input, titles, session switching and reconnect before calling it ready.
+> Read this page and the phone package's README.md and docs/AGENT-SETUP.md. Set up my Android phone terminal on my computer using my own accounts. Offer “Install everything” first. If I prefer “Select components”, explain each briefly and install those choices plus required companions. Before replacing my workflow, follow docs/INSTRUCTION-BACKUP.md: back up my existing AGENTS.md/CLAUDE.md and related personal rules, disable competing old workflow instructions, and tell me where the originals are saved and how to restore them. Preserve my project knowledge and other settings. Pair my phone through debugging, install/configure Tailscale, adapt the local title service, rebuild the APK for my host and install it. Do the accessible setup yourself; guide me through required sign-ins and phone approvals. Verify actual phone input, titles, session switching and reconnect before calling it ready.
+
+## Your existing instructions are saved
+
+Before replacing your workflow, the agent backs up your old `AGENTS.md`/`CLAUDE.md` and checks for other instructions that would compete. Your originals stay recoverable. At the end, it reports: **“I backed up your old instructions to [location] and replaced the workflow so they won’t compete.”** It also gives you restoration steps.
 
 ## Your part
 
