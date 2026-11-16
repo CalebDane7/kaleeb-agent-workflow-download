@@ -4,7 +4,7 @@ Give this link to **Codex or Claude Code running on your computer**. Your agent 
 
 ## Download
 
-- [Protected phone/system package](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/download/phone-handoff-2026.11.16.2/mantis-phone-handoff.zip) · [SHA-256](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/download/phone-handoff-2026.11.16.2/mantis-phone-handoff.zip.sha256)
+- [Protected phone/system package](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/download/phone-handoff-2026.11.16.3/mantis-phone-handoff.zip) · [SHA-256](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/download/phone-handoff-2026.11.16.3/mantis-phone-handoff.zip.sha256)
 - [Protected workflow +36 skills](https://github.com/CalebDane7/kaleeb-agent-workflow-download/releases/latest/download/kaleeb-agent-workflow.zip)
 
 Get both passwords privately from Caleb. Use an AES-compatible extractor such as7-Zip; enter passwords in a hidden local prompt.
