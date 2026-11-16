@@ -1,4 +1,10 @@
-# Caleb’s AGENTS.md and selected skills
+# Caleb’s phone terminal and agent workflow
+
+## Phone terminal setup
+
+[**Start here: Android APK, source and setup instructions for your Codex or Claude**](PHONE-SETUP.md). Both downloads are password-protected; passwords are shared privately.
+
+## AGENTS.md and selected skills
 
 The full **AGENTS.md workflow** and **36 selected skills** for Codex, Claude Code,
 and other agents that can read custom instructions. Updated 26 September 2026.
