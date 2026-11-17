@@ -7,16 +7,18 @@
 ## AGENTS.md and selected skills
 
 The full **AGENTS.md workflow** and **36 selected skills** for Codex, Claude Code,
-and other agents that can read custom instructions. Updated 26 September 2026.
+and other agents that can read custom instructions. Workflow and Agent Browser
+sign-in guidance updated 18 November 2026.
 
 Includes Best Copywriting, Beautiful Converting Frontend Design, Compact Keywords
 SEO, Remotion, and their selected design, conversion, media, Blender, and workflow
 companions. Best Copywriting is the single writing controller.
 
-The latest update adds critically appraised conversion research and contextual
-landing-page guidance, alongside current copywriting and browser improvements.
-Audience intent, SEO, copy and design remain connected; no universal funnel or
-conversion lift is promised.
+The latest update carries the current shareable AGENTS workflow and teaches Agent
+Browser to use an already signed-in Gmail account when a site emails a login code.
+The 36 selected skills remain the curated set; other local skill changes are not
+silently included. The earlier conversion research and contextual landing-page
+guidance remain included. Audience intent, SEO, copy and design remain connected.
 
 The first AGENTS.md rule: use the fewest words that preserve meaning. Give the
 simplest useful answer first; add detail when needed.
